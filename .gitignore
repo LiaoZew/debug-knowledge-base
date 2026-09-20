@@ -1,0 +1,16 @@
+# .gitignore
+
+# 系统
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# 临时文件
+*.tmp
+*.log
+~$*
