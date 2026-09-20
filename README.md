@@ -29,7 +29,7 @@
 
 | 项目 | 说明 | 记录数 |
 | --- | --- | --- |
-| (待添加) | | |
+| [Alinx 3EG 项目](projects/Alinx%203EG%20项目/README.md) | Alinx AXU3EG/ACU3EG:Vivado / UART / SPI / MicroBlaze 调试 | 10 模块 |
 
 ## 快速查找
 
