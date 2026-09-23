@@ -31,6 +31,7 @@
 | --- | --- | --- |
 | [Alinx 3EG 项目](projects/Alinx%203EG%20项目/README.md) | Alinx AXU3EG/ACU3EG:Vivado / UART / SPI / MicroBlaze 调试 | 10 模块 |
 | [V690T HMC7043 时钟](projects/V690T%20HMC7043%20时钟/README.md) | V690T + HMC7043 的 SYSREF / 时钟链路调试 | 1 记录(排查中) |
+| [vivado_tcl_python](projects/vivado_tcl_python/README.md) | Vivado 与 Python/MATLAB 持久交互、版本命令差异 | 2 模块 |
 
 ## 快速查找
 
